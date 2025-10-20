@@ -5,3 +5,4 @@ This repo has the from scratch implementaions of the architectures in Research p
 2. GaNs code
 3. Dataset
 
+Further explorations: DoGan, SuperGan
